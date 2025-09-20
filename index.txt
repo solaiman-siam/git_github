@@ -2,3 +2,4 @@
 23 - Tailwind basics
 25 - Tailwind advance and project
 28 - Javascript basics
+20 - git connected with github successfully.
