@@ -1,1 +1,2 @@
 20 - We are practicing Git & Github initialization and primary setup
+23 - Tailwind basics
